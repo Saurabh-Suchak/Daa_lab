@@ -1,5 +1,5 @@
 string = 'BCAADDDCCACACAC'
-
+# The self in keyword in Python is used to all the instances in a class. By using the self keyword, one can easily access all the instances defined within a class, including its methods and attributes. init. __init__ is one of the reserved methods in Python. In object oriented programming, it is known as a constructor.
 # Creating tree nodes
 class NodeTree(object):
 
