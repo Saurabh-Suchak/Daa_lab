@@ -1,6 +1,5 @@
 string = 'BCAADDDCCACACAC'
 
-
 # Creating tree nodes
 class NodeTree(object):
 
