@@ -9,6 +9,7 @@ int tsp(int graph[][V], int s)
         if (i != s)
             vertex.push_back(i);
     int min_cost = MAX;
+    // next_permutation is to find next lexicographically greater value for given array of values. 
     while(next_permutation(vertex.begin(), vertex.end()))
      {
         int current_cost = 0;

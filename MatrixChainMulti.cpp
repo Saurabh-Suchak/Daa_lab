@@ -48,7 +48,7 @@ int MatrixChainOrder(int p[], int n)
 // Driver Code
 int main()
 {
-	int arr[] = { 1, 2, 3, 4 };
+	int arr[] = { 1, 2, 3, 4,3 };
 	int size = sizeof(arr) / sizeof(arr[0]);
 
 	cout << "Minimum number of multiplications is "
